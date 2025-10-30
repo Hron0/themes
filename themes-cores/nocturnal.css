@@ -9,6 +9,7 @@
     --backgroundCode: #99379c0d;
 	--mentionedBackground: #49bd96b8;
 	--linkTextColor: #4c97f0;
+	--panelBorderColor: #923e8c5c;
     --backgroundName: rgba(0, 0, 0, 0.2);
     --rs-small-spacing: 2px;
     --rs-medium-spacing: 3px;
@@ -343,6 +344,8 @@
 .panels__5e434 {
 	background: var(--backgroundColor02) !important;
 	box-sizing: content-box !important;
+	--custom-panels-spacing: 2px !important;
+	border: 1px solid var(--panelBorderColor) !important;
 }
 
 .sidebar__5e434:after {
