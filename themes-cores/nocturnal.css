@@ -340,6 +340,15 @@
     top: 1px
 }
 
+.panels__5e434 {
+	background: var(--backgroundColor02) !important;
+	box-sizing: content-box !important;
+}
+
+.sidebar__5e434:after {
+	background: var(--backgroundColor02) !important;
+}
+
 .checkbox-1ycfTw .checkboxInner-1aRh1d span {
     background-color: #f54748;
     border-color: #f54748 !important
