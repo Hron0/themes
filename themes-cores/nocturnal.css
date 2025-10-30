@@ -8,6 +8,7 @@
     --gradientColor02: #5fd4ff;
     --backgroundCode: #99379c0d;
 	--mentionedBackground: #0575e6;
+	--linkTextColor: #4c97f0;
     --backgroundName: rgba(0, 0, 0, 0.2);
     --rs-small-spacing: 2px;
     --rs-medium-spacing: 3px;
@@ -403,7 +404,7 @@
 #app-mount .anchor-1MIwyf,
 #app-mount .executedCommand_c19a55 .commandName_c19a55,
 #app-mount .markup__75297 a {
-    color: var(--mentionedBackground) !important
+    color: var(--linkTextColor) !important
 }
 
 #app-mount .lookLink-15mFoz.colorBrand-I6CyqQ {
