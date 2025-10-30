@@ -1,11 +1,11 @@
 @import url("https://nyri4.github.io/Discolored/main.css");
 
 :root {
-    --backgroundColor01: #1e2731;
-    --backgroundColor02: #12171d;
-    --mainColor: #2275c9;
-    --gradientColor01: #00f260;
-    --gradientColor02: #0575e6;
+    --backgroundColor01: #181e25;
+    --backgroundColor02: #0d131b;
+    --mainColor: #538afa;
+    --gradientColor01: #ff2100;
+    --gradientColor02: #5fd4ff;
     --backgroundCode: #1e2731;
     --backgroundName: rgba(0, 0, 0, 0.2);
     --rs-small-spacing: 2px;
