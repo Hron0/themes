@@ -318,6 +318,10 @@
     background-color: rgba(0, 0, 0, .15) !important
 }
 
+.privateChannels_e6b769 {
+	background: none !important;
+}
+
 #bd-editor-controls button:hover {
     background-color: var(--backgroundColor02) !important
 }
