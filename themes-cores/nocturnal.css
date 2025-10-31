@@ -344,8 +344,9 @@
 .panels__5e434 {
 	background: var(--backgroundColor02) !important;
 	box-sizing: content-box !important;
-	--custom-panels-spacing: 2px !important;
+	--custom-panels-spacing: 8px !important;
 	border: 1px solid var(--panelBorderColor) !important;
+	width: calc(101% - var(--custom-panels-spacing)* 2) !important;
 }
 
 .sidebar__5e434:after {
