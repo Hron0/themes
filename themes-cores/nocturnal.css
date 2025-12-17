@@ -742,7 +742,7 @@
 }
 
 #app-mount ._5126c0cd07f243a0-mentioned:before {
-    background-color: var(--gradientColor01);
+    background-color: var(--mentionedBackground);
     width: 4px;
     border-radius: 8px 0 0 8px
 }
@@ -758,7 +758,7 @@
     content: "";
     width: 100%;
     height: 100%;
-    background-color: var(--gradientColor01);
+    background-color: var(--mentionedBackground);
     left: 0;
     top: 0;
     bottom: 0;
